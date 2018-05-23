@@ -1,2 +1,4 @@
 # hello-mars
-It's the test repository.
+It's a test repository.
+
+Here is some text.
